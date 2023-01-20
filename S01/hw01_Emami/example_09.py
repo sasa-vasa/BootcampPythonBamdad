@@ -1,0 +1,6 @@
+val1 = input("enter 1st value: ")
+val2 = int(input("enter 2nd value: "))
+val3 = float(input("enter 3rd value: "))
+print("data-type of 1st value is:", type(val1))
+print("data-type of 2nd value is:", type(val2))
+print("data-type of 3rd value is:", type(val3))
